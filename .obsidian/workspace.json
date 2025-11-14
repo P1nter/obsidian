@@ -11,10 +11,14 @@
             "id": "79ae477149d5b953",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Teszt.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Teszt"
             }
           }
         ]
@@ -188,5 +192,7 @@
     }
   },
   "active": "79ae477149d5b953",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Teszt.md"
+  ]
 }
